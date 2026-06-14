@@ -1,7 +1,6 @@
-# TetrisSmash
-# Privacy Policy for Tetris Smash
+# Privacy Policy for BrickSmash!
 
-This privacy policy governs your use of the mobile software application **Tetris Smash** for Android devices, which was developed by an independent developer.
+This privacy policy governs your use of the mobile software application **BrickSmash!** for Android devices, which was developed by an independent developer.
 
 ### Information Collection and Use
 
@@ -20,7 +19,7 @@ You can access the Privacy Policy of the third-party service provider via the li
 
 ### Children's Privacy
 
-Tetris Smash does not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian and you are aware that your child has provided personal information, please contact the developer so that necessary actions can be taken.
+**BrickSmash!** does not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian and you are aware that your child has provided personal information, please contact the developer so that necessary actions can be taken.
 
 ### Changes to This Privacy Policy
 
@@ -29,4 +28,4 @@ This Privacy Policy may be updated from time to time. Any changes will be reflec
 ### Contact Us
 
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact the developer at:
-Email: supportbbtech@gmail.com
+* **Email:** supportbbtech@gmail.com
